@@ -11,3 +11,4 @@ Fonctionnalitées :
 Le bot permet aussi d'envoyer des messages privés aux différents utilisateurs de celui-ci 😀 ! 
 La modération est également comprise attention 🚓.
 
+Le token/identifiant ne marche pas pour éviter les abus.
